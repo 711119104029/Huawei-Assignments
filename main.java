@@ -181,6 +181,8 @@ public class main //main class
                         break;
                     case 4:
                         a.vehicle() ;
+                    case 4:
+                        a.business() ;
                         break;
                     default:
                         System.out.println("SELECT AN APPROPRIATE OPTION");
